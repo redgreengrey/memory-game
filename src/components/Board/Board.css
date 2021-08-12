@@ -1,0 +1,33 @@
+.board {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.board-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  max-width: 1200px;
+}
+
+.invisible {
+  visibility: hidden;
+}
+
+.win {
+  display: flex;
+  flex-direction: column;
+}
+
+.submit {
+  display: flex;
+}
+
+.score {
+  margin-top: 10px;
+  font-size: 20px;
+}

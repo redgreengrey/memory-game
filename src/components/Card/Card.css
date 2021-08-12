@@ -1,0 +1,18 @@
+.match-card {
+  margin: 0 5px;
+}
+
+.match-card:hover {
+  cursor: pointer;
+}
+
+.match-card img {
+  width: 120px;
+  height: 160px;
+}
+
+.match-card-pic {
+  -webkit-box-shadow: -2px -1px 19px -2px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -2px -1px 19px -2px rgba(0, 0, 0, 0.75);
+  box-shadow: -2px -1px 19px -2px rgba(0, 0, 0, 0.75);
+}
